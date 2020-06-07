@@ -236,8 +236,8 @@
     "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/Orange.png"
   },
   {
-    "uuid": "8306c8fe-2b79-4044-83ac-50537e3199d1",
-    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/Blue.png"
+    "uuid": "8fd2fcd9-ac93-4b65-a7c1-fe5e16be029e",
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewCape.png"
   },
   {
     "uuid": "e9fb50a2-3bfd-4f63-a6b2-26a42ba5c790",
@@ -257,6 +257,18 @@
   },
   {
     "uuid": "8306c8fe-2b79-4044-83ac-50537e3199d1",
-    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/Green.png"
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewCape.png"
+  },
+  {
+    "uuid": "da754e6e-2b25-4e8c-bbd5-75cc0327a042",
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewCape.png"
+  },
+  {
+    "uuid": "9a521a00-2ac5-4499-9667-a4e79aed4e35",
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewCape.png"
+  },
+  {
+    "uuid": "5acf9e95-cde1-434d-a3e3-7573cec1dc53",
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewCape.png"
   }
 ]
