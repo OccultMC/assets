@@ -29,7 +29,7 @@
   },
   {
     "uuid": "a61d50ad-266c-4183-bbed-3ae89fb26419",
-    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/Nigger.png"
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewPurple.png"
   },
   {
     "uuid": "acab06e7-cc16-44f2-86ce-394e0ff015ee",
@@ -270,5 +270,21 @@
   {
     "uuid": "5acf9e95-cde1-434d-a3e3-7573cec1dc53",
     "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewCape.png"
+  },
+  {
+    "uuid": "4cb25387-889f-4e62-a4b3-916791418a63",
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewRed.png"
+  },
+  {
+    "uuid": "dfab21ff-a843-430b-aaab-07a3198dcb84",
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewRed.png"
+  },
+  {
+    "uuid": "ceaa94f3-252b-4bb4-9522-78e7f6464591",
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/NewBlue.png"
+  },
+  {
+    "uuid": "25004b7a-9994-4e2d-a1d7-81d35da49ab1",
+    "url": "https://raw.githubusercontent.com/OccultMC/assets/master/capes/Red.png"
   }
 ]
